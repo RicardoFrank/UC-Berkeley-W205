@@ -26,7 +26,7 @@ sudo -u hdfs hdfs dfs -put /data/ex1/RDH.csv /user/rbarrera/hospital_compare/RDH
 sudo -u hdfs hdfs dfs -put /data/ex1/RDS.csv /user/rbarrera/hospital_compare/RDS.csv
 sudo -u hdfs hdfs dfs -put /data/ex1/RDN.csv /user/rbarrera/hospital_compare/RDN.csv
 sudo -u hdfs hdfs dfs -put /data/ex1/TECN.csv /user/rbarrera/hospital_compare/TECN.csv
-sudo -u hdfs hdfs dfs -put /data/ex1/TECH.csv /user/rbarrera/hospital_compareTECH.csv
+sudo -u hdfs hdfs dfs -put /data/ex1/TECH.csv /user/rbarrera/hospital_compare/TECH.csv
 sudo -u hdfs hdfs dfs -put /data/ex1/TECS.csv /user/rbarrera/hospital_compare/TECS.csv
 sudo -u hdfs hdfs dfs -put /data/ex1/survey.csv /user/rbarrera/hospital_compare/survey.csv
 sudo -u hdfs hdfs dfs -put /data/ex1/MD.csv /user/rbarrera/hospital_compare/MD.csv
