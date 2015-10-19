@@ -9,7 +9,7 @@ unzip Nqcy71p9Ss2RSBWDmP77H1DQXcyacr2khotGbDHHW_s\?content_type\=application%2Fz
 
 rm Nqcy71p9Ss2RSBWDmP77H1DQXcyacr2khotGbDHHW_s\?content_type\=application%2Fzip\;\ charset\=binary
 
-mkdir /ex1
+mkdir ex1
 
 tail -n +2 Hospital\ General\ Information.csv > /data/ex1/HGI.csv
 tail -n +2 Readmissions\ and\ Deaths\ -\ Hospital.csv > /data/ex1/RDH.csv
