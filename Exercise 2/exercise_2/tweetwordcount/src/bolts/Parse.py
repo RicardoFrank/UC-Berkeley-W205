@@ -46,3 +46,4 @@ class ParseTweet(Bolt):
         self.emit_many(valid_words)
 
         # tuple acknowledgement is handled automatically
+
