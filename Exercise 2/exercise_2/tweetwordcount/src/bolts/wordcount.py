@@ -54,3 +54,4 @@ class WordCounter(Bolt):
         self.log('%s: %d' % (word, self.counts[word]))
         #for rec in records:
                 #self.log('%s: %d' % (rec[0], rec[1]))
+	#
